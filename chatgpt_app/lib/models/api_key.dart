@@ -1,0 +1,3 @@
+class ApiKey {
+  String apikey = '***';
+}
